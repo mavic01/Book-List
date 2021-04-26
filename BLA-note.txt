@@ -1,0 +1,3 @@
+In this book-list app, we'll be using bootswatch themes from bootswatch.com for the styling from bootstrap
+ go to the one u want, click on download and copy the url.. create a link tag for the stylesheet and put the url in the href
+Next, get the font awesome link tag from this site https://cdnjs.com/libraries/ .. just search for it and copy the tag
